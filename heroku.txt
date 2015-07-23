@@ -1,0 +1,4 @@
+[work@www7299uo sample_app]$ heroku create
+Creating obscure-bayou-2992... done, stack is cedar-14
+https://obscure-bayou-2992.herokuapp.com/ | https://git.heroku.com/obscure-bayou-2992.git
+Git remote heroku added
